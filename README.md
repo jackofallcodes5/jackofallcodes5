@@ -46,9 +46,9 @@
 
 ## 🌐 Connect With Me
 
-- 💼 **GitHub:** https://github.com/jackofallcodes5
-- 🧩 **LeetCode:** https://leetcode.com/u/5AkUM9xk2U/
-- 💼 **LinkedIn:** https://www.linkedin.com/in/gaurang-deshpande/
+- 💼 **[GitHub](https://github.com/jackofallcodes5)** 
+- 🧩 **[LeetCode](https://leetcode.com/u/5AkUM9xk2U/)** 
+- 💼 **[LinkedIn](https://linkedin.com/in/gaurang-deshpande-610677265)** 
 
 ---
 
