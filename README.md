@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there 👋, I'm Gaurang Deshpande
 
-<!--
-**jackofallcodes5/jackofallcodes5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-Year Computer Engineering Student  
+💻 Full-Stack Developer | Java Developer | AI Enthusiast  
+🚀 Passionate about building impactful software and solving real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Currently learning **Data Structures & Algorithms, System Design, and AI**
+- 💻 Building projects using **Java, React, Node.js, Flutter, Python, and Docker**
+- 🎯 Interested in **Software Development, AI, and Backend Engineering**
+- 📚 Consistently improving my problem-solving skills on LeetCode
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+- Java
+- Python
+- JavaScript
+- SQL
+- HTML & CSS
+
+**Frameworks & Tools**
+
+- React.js
+- Node.js
+- Express.js
+- Flutter
+- Docker
+- Git & GitHub
+- MySQL
+- PostgreSQL
+
+---
+
+## 📈 LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/5AkUM9xk2U?theme=dark&font=Nunito&ext=heatmap)
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 **GitHub:** https://github.com/jackofallcodes5
+- 🧩 **LeetCode:** https://leetcode.com/u/5AkUM9xk2U/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/gaurang-deshpande/
+
+---
+
+⭐ *"Code. Learn. Build. Repeat."*
