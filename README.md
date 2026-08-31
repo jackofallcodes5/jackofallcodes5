@@ -98,11 +98,12 @@ These roles have helped me develop **leadership, communication, team management,
 
 ---
 
-# 📊 LeetCode
+<!-- # 📊 LeetCode 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/5AkUM9xk2U?theme=dark\&font=Nunito)
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/5AkUM9xk2U?theme=dark\&font=Nunito) -->
 
 ---
+
 
 
 
