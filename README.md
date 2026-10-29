@@ -4,10 +4,7 @@
 
 **Computer Science & Engineering Student · Full-Stack Developer · Android Developer · AI Builder**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-e8a33d?style=for-the-badge&logo=vercel&logoColor=white)](https://gaurang-deshpande-portfolio.netlify.app/#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurang-deshpande-610677265)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jackofallcodes5)
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deshpandeg135@gmail.com)
+
 
 </div>
 
